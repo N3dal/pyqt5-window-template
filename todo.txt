@@ -1,0 +1,2 @@
+[ ] add more window templates.
+[ ] add custom error window.
